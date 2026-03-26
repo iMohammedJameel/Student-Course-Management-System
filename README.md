@@ -9,8 +9,7 @@ A C++ console application that manages students and their enrolled courses, buil
 | Field | Details |
 |-------|---------|
 | **Student** | Mohammed Jameel Fouad |
-| **ID** | 11216 |
-| **Course** | C++ Programming |
+| **Course** | Foundations of Software Development |
 | **Assignment** | Individual Assignment |
 
 ---
