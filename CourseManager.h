@@ -3,6 +3,7 @@
 #include <vector>
 #include <algorithm>
 #include <iomanip>
+#include <string>
 #include "Student.h"
 using namespace std;
 
